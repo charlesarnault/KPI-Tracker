@@ -1,3 +1,3 @@
 # KPI Tracker
 
-## KPI tracking dashboard
+KPI tracking dashboard
